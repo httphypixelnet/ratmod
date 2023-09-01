@@ -1,13 +1,13 @@
 [
 {
-  "modid": "examplemod",
+  "modid": "HittableUiMod",
   "name": "Example Mod",
   "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude", "dxxxxy"],
+  "authorList": [ "httphypixelnet"],
   "credits": "The Forge and FML guys, for making this example. dxxxxy for fixing it.",
   "logoFile": "",
   "screenshots": [],
